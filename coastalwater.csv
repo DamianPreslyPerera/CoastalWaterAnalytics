@@ -1,0 +1,127 @@
+date,Site,Characteristic,From_Range,To_Range,Average,Year
+1/4/2015,Flic en Flac,pH,8.1,8.4,8.25,2015
+1/2/2015,Trou aux Biches,pH,8.1,8.4,8.25,2015
+1/3/2015,Mon Choisy,pH,7.9,8.4,8.15,2015
+1/4/2015,Blue Bay,pH,7.9,8.5,8.2,2015
+1/5/2015,Albion,pH,8,8.3,8.15,2015
+1/6/2015,Pointe aux Sables,pH,8,8.5,8.25,2015
+1/7/2015,Flic en Flac,Temperature,26,32,29,2015
+1/8/2015,Trou aux Biches,Temperature,25,29.5,27.25,2015
+1/9/2015,Mon Choisy,Temperature,25,29.3,27.15,2015
+1/10/2015,Blue Bay,Temperature,24.5,31,27.75,2015
+1/11/2015,Albion,Temperature,28,29.5,28.75,2015
+1/12/2015,Pointe aux Sables,Temperature,27,31,29,2015
+1/13/2015,Flic en Flac,Salinity,26.9,32.4,29.65,2015
+1/14/2015,Trou aux Biches,Salinity,30,31.1,30.55,2015
+1/15/2015,Mon Choisy,Salinity,29.2,32.5,30.85,2015
+1/16/2015,Blue Bay,Salinity,9.1,33.1,21.1,2015
+1/17/2015,Albion,Salinity,25.2,33.9,29.55,2015
+1/18/2015,Pointe aux Sables,Salinity,26.3,30.6,28.45,2015
+1/1/2016,Flic en Flac,pH,8.2,8.5,8.35,2016
+1/2/2016,Trou aux Biches,pH,8.2,8.6,8.4,2016
+1/3/2016,Mon Choisy,pH,8.2,8.4,8.3,2016
+1/4/2016,Blue Bay,pH,8.1,8.4,8.25,2016
+1/5/2016,Albion,pH,8,8.4,8.2,2016
+1/6/2016,Pointe aux Sables,pH,8.2,8.6,8.4,2016
+1/7/2016,Flic en Flac,Temperature,23.2,30.5,26.85,2016
+1/8/2016,Trou aux Biches,Temperature,24,31,27.5,2016
+1/9/2016,Mon Choisy,Temperature,23.5,31,27.25,2016
+1/10/2016,Blue Bay,Temperature,24.6,29.1,26.85,2016
+1/11/2016,Albion,Temperature,22,30.8,26.4,2016
+1/12/2016,Pointe aux Sables,Temperature,32.4,35.4,33.9,2016
+1/13/2016,Flic en Flac,Salinity,30.8,36.3,33.55,2016
+1/14/2016,Trou aux Biches,Salinity,31.5,35.7,33.6,2016
+1/15/2016,Mon Choisy,Salinity,32.7,36.6,34.65,2016
+1/16/2016,Blue Bay,Salinity,17.5,36.5,27,2016
+1/17/2016,Albion,Salinity,27,36.1,31.55,2016
+1/18/2016,Pointe aux Sables,Salinity,24,33,28.5,2016
+1/1/2017,Flic en Flac,pH,8.1,8.5,8.3,2017
+1/2/2017,Trou aux Biches,pH,8.2,8.4,8.3,2017
+1/3/2017,Mon Choisy,pH,8.1,8.4,8.25,2017
+1/4/2017,Blue Bay,pH,8,8.4,8.2,2017
+1/5/2017,Albion,pH,8.1,8.3,8.2,2017
+1/6/2017,Pointe aux Sables,pH,8.1,8.6,8.35,2017
+1/7/2017,Flic en Flac,Temperature,25,29.3,27.15,2017
+1/8/2017,Trou aux Biches,Temperature,24.7,29.1,26.9,2017
+1/9/2017,Mon Choisy,Temperature,23.8,29.5,26.65,2017
+1/10/2017,Blue Bay,Temperature,24.7,31.1,27.9,2017
+1/11/2017,Albion,Temperature,24.1,29.1,26.6,2017
+1/12/2017,Pointe aux Sables,Temperature,24,29.3,26.65,2017
+1/13/2017,Flic en Flac,Salinity,28.9,35.8,32.35,2017
+1/14/2017,Trou aux Biches,Salinity,32.6,35.5,34.05,2017
+1/15/2017,Mon Choisy,Salinity,33.5,36.3,34.9,2017
+1/16/2017,Blue Bay,Salinity,8.9,35.8,22.35,2017
+1/17/2017,Albion,Salinity,33.6,35.9,34.75,2017
+1/18/2017,Pointe aux Sables,Salinity,28.7,36.4,32.55,2017
+1/1/2018,Flic en Flac,pH,7.8,8.3,8.05,2018
+1/2/2018,Trou aux Biches,pH,7.8,8.3,8.05,2018
+1/3/2018,Mon Choisy,pH,8,8.4,8.2,2018
+1/4/2018,Blue Bay,pH,8,8.4,8.2,2018
+1/5/2018,Albion,pH,8,8.2,8.1,2018
+1/6/2018,Pointe aux Sables,pH,7,8.5,7.75,2018
+1/7/2018,Flic en Flac,Temperature,25.2,28.6,26.9,2018
+1/8/2018,Trou aux Biches,Temperature,26,31.3,28.65,2018
+1/9/2018,Mon Choisy,Temperature,25.4,31.5,28.45,2018
+1/10/2018,Blue Bay,Temperature,24.5,30.4,27.45,2018
+1/11/2018,Albion,Temperature,24,30,27,2018
+1/12/2018,Pointe aux Sables,Temperature,25.4,30.4,27.9,2018
+1/13/2018,Flic en Flac,Salinity,25.7,36.4,31.05,2018
+1/14/2018,Trou aux Biches,Salinity,33.8,36.1,34.95,2018
+1/15/2018,Mon Choisy,Salinity,33,36.1,34.55,2018
+1/16/2018,Blue Bay,Salinity,20.4,36.3,28.35,2018
+1/17/2018,Albion,Salinity,22.6,36.2,29.4,2018
+1/18/2018,Pointe aux Sables,Salinity,30.4,35.8,33.1,2018
+1/1/2019,Flic en Flac,pH,8,8.5,8.25,2019
+1/2/2019,Trou aux Biches,pH,8.1,8.4,8.25,2019
+1/3/2019,Mon Choisy,pH,8.1,8.5,8.3,2019
+1/4/2019,Blue Bay,pH,8,8.5,8.25,2019
+1/5/2019,Albion,pH,8,8.3,8.15,2019
+1/6/2019,Pointe aux Sables,pH,8.1,8.4,8.25,2019
+1/7/2019,Flic en Flac,Temperature,24.2,29.9,27.05,2019
+1/8/2019,Trou aux Biches,Temperature,26.1,28.9,27.5,2019
+1/9/2019,Mon Choisy,Temperature,25.4,30.4,27.9,2019
+1/10/2019,Blue Bay,Temperature,25.7,32.7,29.2,2019
+1/11/2019,Albion,Temperature,25.4,26.8,26.1,2019
+1/12/2019,Pointe aux Sables,Temperature,24.9,30.4,27.65,2019
+1/13/2019,Flic en Flac,Salinity,30.2,35.3,32.75,2019
+1/14/2019,Trou aux Biches,Salinity,31.1,34.9,33,2019
+1/15/2019,Mon Choisy,Salinity,29.2,35.6,32.4,2019
+1/16/2019,Blue Bay,Salinity,31.8,35.8,33.8,2019
+1/17/2019,Albion,Salinity,26.7,34.3,30.5,2019
+1/18/2019,Pointe aux Sables,Salinity,28.7,34.2,31.45,2019
+1/1/2020,Flic en Flac,pH,8.19,8.27,8.23,2020
+1/2/2020,Trou aux Biches,pH,7.87,8.25,8.06,2020
+1/3/2020,Mon Choisy,pH,8.06,8.24,8.15,2020
+1/4/2020,Blue Bay,pH,7.74,8.2,7.97,2020
+1/5/2020,Albion,pH,8.11,8.31,8.21,2020
+1/6/2020,Pointe aux Sables,pH,8.11,8.34,8.225,2020
+1/7/2020,Flic en Flac,Temperature,23,29.8,26.4,2020
+1/8/2020,Trou aux Biches,Temperature,25.4,30.1,27.75,2020
+1/9/2020,Mon Choisy,Temperature,24.7,32.6,28.65,2020
+1/10/2020,Blue Bay,Temperature,22.7,29.7,26.2,2020
+1/11/2020,Albion,Temperature,23.3,28.7,26,2020
+1/12/2020,Pointe aux Sables,Temperature,26.1,30.5,28.3,2020
+1/13/2020,Flic en Flac,Salinity,31.6,34.1,32.85,2020
+1/14/2020,Trou aux Biches,Salinity,33.8,34.5,34.15,2020
+1/15/2020,Mon Choisy,Salinity,34.3,35.6,34.95,2020
+1/16/2020,Blue Bay,Salinity,31.9,36.1,34,2020
+1/17/2020,Albion,Salinity,13.7,35,24.35,2020
+1/18/2020,Pointe aux Sables,Salinity,28.6,33.3,30.95,2020
+1/1/2021,Flic en Flac,pH,8.2,8.5,8.35,2021
+1/2/2021,Trou aux Biches,pH,8.2,8.4,8.3,2021
+1/3/2021,Mon Choisy,pH,7.9,8.3,8.1,2021
+1/4/2021,Blue Bay,pH,7.9,8.5,8.2,2021
+1/5/2021,Albion,pH,8.1,8.5,8.3,2021
+1/6/2021,Pointe aux Sables,pH,8.1,8.5,8.3,2021
+1/7/2021,Flic en Flac,Temperature,24.3,29.9,27.1,2021
+1/8/2021,Trou aux Biches,Temperature,26.1,30,28.05,2021
+1/9/2021,Mon Choisy,Temperature,25.8,30.2,28,2021
+1/10/2021,Blue Bay,Temperature,25.8,30.3,28.05,2021
+1/11/2021,Albion,Temperature,26,30.3,28.15,2021
+1/12/2021,Pointe aux Sables,Temperature,23.8,29.9,26.85,2021
+1/13/2021,Flic en Flac,Salinity,27,34.8,30.9,2021
+1/14/2021,Trou aux Biches,Salinity,31.1,34.2,32.65,2021
+1/15/2021,Mon Choisy,Salinity,30.8,35.1,32.95,2021
+1/16/2021,Blue Bay,Salinity,30.1,34.5,32.3,2021
+1/17/2021,Albion,Salinity,31.4,35.3,33.35,2021
+1/18/2021,Pointe aux Sables,Salinity,28,33.8,30.9,2021
