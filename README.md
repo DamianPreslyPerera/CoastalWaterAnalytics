@@ -1,4 +1,4 @@
-# CoastalWaterAnalytics
+# Coastal Water Analytics
 Physical and Chemical Characteristics of Coastal Water by Level and Monitoring Site in Mauritius
 
 Created 15+ interactive visualizations from time series data on coastal water changes, yielding actionable insights for environmental decision making. 
